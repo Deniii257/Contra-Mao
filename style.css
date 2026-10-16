@@ -9,7 +9,7 @@ body{
 
 .container1{
     text-align: center;
-    background-image: url(./imagens/planodefundo.jpg);
+    background-image: url(planodefundo.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     height: 110vh;
@@ -115,7 +115,7 @@ footer a{
 
 @media screen and (max-width: 884px) {
     .container1{
-        background-image: url(./imagens/planodefundo-celular.jpg);
+        background-image: url(planodefundo-celular.jpg);
     }
 
     .container1 header{
